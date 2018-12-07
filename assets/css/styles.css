@@ -46,6 +46,8 @@ main {
 
   /* Visual */
   background: #4aaaa5;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 /* override bootstrap hover color and border */
